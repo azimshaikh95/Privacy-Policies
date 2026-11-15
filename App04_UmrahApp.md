@@ -103,5 +103,4 @@ We may update this Privacy Policy periodically to reflect enhancements to our lo
 ## 10. Contact Us
 
 If you have any questions or feedback regarding this Privacy Policy or the technical functionality of the App, please reach out to:
-
-If you have any questions, feedback, or suggestions regarding this Privacy Policy, please feel free to reach out to us at azim.zaytunweb@gmail.com.
+azim.zaytunweb@gmail.com.
