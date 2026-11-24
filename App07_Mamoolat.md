@@ -1,6 +1,7 @@
 # Privacy Policy for Mamoolat: Wird & Muhasabah
 
 **Effective Date:** November 24, 2026  
+**Last Updated:** November 24, 2026  
 **App Name:** Mamoolat: Wird & Muhasabah (معمولات)  
 **Package / Bundle ID:** `com.azim.mamoolat`  
 **Developer / Contact Email:** [azim.zaytunweb@gmail.com](mailto:azim.zaytunweb@gmail.com)
@@ -89,7 +90,9 @@ You can:
 * Edit or remove your profile details on the Nisbat page.
 * Sign out at any time from Settings.
 * Delete records on your device (Settings → Reset all daily logs) or uninstall the App.
-* Request permanent deletion of your account and all synced data by emailing [azim.zaytunweb@gmail.com](mailto:azim.zaytunweb@gmail.com) from the Google account you signed in with. Requests are completed within **30 days**.
+* **Delete your account inside the App:** Settings → Account → **Delete my account**. After you confirm with Google, your sign-in account and all synced data (profile, mamoolat list, daily records, monthly notes and questions) are deleted immediately from the cloud and from your device.
+* Or request deletion by emailing [azim.zaytunweb@gmail.com](mailto:azim.zaytunweb@gmail.com) from the Google account you signed in with. Email requests are completed within **30 days**.
+* Nothing is kept after deletion, except that a report you already sent through WhatsApp or email stays with its recipient.
 
 ---
 
